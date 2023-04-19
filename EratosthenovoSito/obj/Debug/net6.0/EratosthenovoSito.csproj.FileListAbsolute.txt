@@ -1,0 +1,15 @@
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\bin\Debug\net6.0\EratosthenovoSito.exe
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\bin\Debug\net6.0\EratosthenovoSito.deps.json
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\bin\Debug\net6.0\EratosthenovoSito.runtimeconfig.json
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\bin\Debug\net6.0\EratosthenovoSito.dll
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\bin\Debug\net6.0\EratosthenovoSito.pdb
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.csproj.AssemblyReference.cache
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.AssemblyInfoInputs.cache
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.AssemblyInfo.cs
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.csproj.CoreCompileInputs.cache
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.dll
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\ref\EratosthenovoSito.dll
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.pdb
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\EratosthenovoSito.genruntimeconfig.cache
+C:\Users\dodis\source\repos\EratosthenovoSito\EratosthenovoSito\obj\Debug\net6.0\refint\EratosthenovoSito.dll
